@@ -1,0 +1,5 @@
+# install4j response file for SeeTest Remote Debugging 20.12.7723
+sys.adminRights$Boolean=true
+sys.installationDir=/Applications/SeeTestRemoteDebugging
+sys.languageId=en
+sys.programGroupDisabled$Boolean=true

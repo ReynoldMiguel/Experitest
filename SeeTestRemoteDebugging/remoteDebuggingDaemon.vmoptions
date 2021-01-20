@@ -1,0 +1,7 @@
+# The following is needed because of an apparent bug in Install4J 8.0.2 (SA-32134)
+-Djava.library.path=.:./bin
+-Djava.net.preferIPv4Stack=true
+-XX:MinHeapFreeRatio=10
+-XX:MaxHeapFreeRatio=10
+-Dfile.encoding=UTF8
+-Xmx2048m

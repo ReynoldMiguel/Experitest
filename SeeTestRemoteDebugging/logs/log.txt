@@ -1,0 +1,8 @@
+2021-01-05 13:57:30 TRACE ShellExecution:59 - Executing shell command in directory null:
+/bin/bash -c chmod 666 /Applications/SeeTestRemoteDebugging/logs/log4j.properties
+2021-01-05 13:57:30 TRACE ShellExecution:74 - Execution output streams: 
+
+2021-01-05 14:10:13 TRACE ShellExecution:59 - Executing shell command in directory null:
+/bin/bash -c chmod 666 /var/root/seetest-remote-debugging-cli/log4j.properties
+2021-01-05 14:10:13 TRACE ShellExecution:74 - Execution output streams: 
+
